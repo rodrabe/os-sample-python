@@ -1,6 +1,5 @@
 gunicorn
 falcon
 fixtures
-gunicorn
 jsonschema
 softlayer

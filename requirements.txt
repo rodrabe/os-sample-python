@@ -1,2 +1,6 @@
 gunicorn
-Flask
+falcon
+fixtures
+gunicorn
+jsonschema
+softlayer
